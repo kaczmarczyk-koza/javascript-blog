@@ -42,7 +42,7 @@ const optArticleSelector = '.post',
 optTitleSelector = '.post-title',
 optTitleListSelector = '.titles';
 
-function generateTitleLinks(event) {
+function generateTitleLinks() {
   console.log('Title was clicked!');
 
   /* [DONE] remove all article links  */
